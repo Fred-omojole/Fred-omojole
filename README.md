@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fred-omojole
 - 👀 I’m interested in Front end Development technologies
-- 🌱 I’m currently learning Nextjs, Framer motion etc.
+- 🌱 On an excting journey of understanding and perfecting animations. Delving into Gsap and Three.js, Frightened but excited.
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫  reach me @ omoyeleomojole2004@gmail.com
 
