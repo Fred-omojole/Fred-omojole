@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫  reach me @ omoyeleomojole2004@gmail.com
 
-- [![GitHub Streak](https://streak-stats.demolab.com/?user=freddy.dev)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=freddy.dev&theme=tokyonight-duo&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
 
 ......Linkedin: https://www.linkedin.com/in/ omoyele-fred-omojole
 <!---
