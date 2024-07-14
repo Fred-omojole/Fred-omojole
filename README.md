@@ -4,7 +4,7 @@
 
 ### Hi there! <img src='https://slackmojis.com/emojis/5999-meow_party/image/1680403398/meow_party.gif' width="25"/>
 
-I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Developer with over 1.5+ yeaars of growth based in Nigeria.
+I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Developer with over 1.5+ years of growth based in Nigeria.
 Currently I find animations very cool, and also checking some libraries out. 
 
 
