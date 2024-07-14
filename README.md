@@ -1,3 +1,6 @@
+<>
+
+
 ### Hi there! <img src='https://slackmojis.com/emojis/5999-meow_party/image/1680403398/meow_party.gif' width="25"/>
 
 I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Developer with over 1.5+ yeaars of growth based in Nigeria.
@@ -14,5 +17,5 @@ I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Dev
 - I love all animes
 
 ## Listen 
-<a href = "https://open.spotify.com/track/16iNJCkOQHkYdPrBZVRb1Z?si=7187c0513be1497d"><>
+<a href = "https://open.spotify.com/track/16iNJCkOQHkYdPrBZVRb1Z?si=7187c0513be1497d"></a>
   
