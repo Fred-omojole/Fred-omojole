@@ -1,5 +1,6 @@
-<>
-
+<div align="right">
+<img src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzljeWg0aGN0YXpqbHJ3YjB1NGgwNjZqYmZuOXowb20zMmF6MXR5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHsKFiT28Id0I/giphy.gif' width="100%" height="100%" style="position:absolute" />
+</div>  
 
 ### Hi there! <img src='https://slackmojis.com/emojis/5999-meow_party/image/1680403398/meow_party.gif' width="25"/>
 
