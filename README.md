@@ -17,11 +17,8 @@ I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Dev
 - I don't like coffee.
 - I love all animes
 
-## Listen 
-
-
-
+## Soothing  <img src='https://slackmojis.com/emojis/49155-creu-calm/image/1711598472/creu-calm.gif' width="25"/>
 <a href="https://open.spotify.com/track/16iNJCkOQHkYdPrBZVRb1Z?si=7187c0513be1497d" target="_blank">
-<img src="https://imgur.com/dmc102n" />
+<img src="https://i.imgur.com/dmc102n.png" />
 </a>
   
