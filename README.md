@@ -1,4 +1,4 @@
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/meow_party.gif" width="25"/>
+### Hi there! <img src='https://slackmojis.com/emojis/5999-meow_party/image/1680403398/meow_party.gif' width="25"/>
 
 I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend engineer based in Nigeria.
 
