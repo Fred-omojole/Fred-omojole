@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫  reach me @ omoyeleomojole2004@gmail.com
 
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=freddy.dev)](https://git.io/streak-stats)
+
 ......Linkedin: https://www.linkedin.com/in/ omoyele-fred-omojole
 <!---
 Fred-omojole/Fred-omojole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
