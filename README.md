@@ -18,5 +18,7 @@ I'm [**Fred-Omojole Omoyele**](https://portfolio-t1.vercel.app/), a Frontend Dev
 - I love all animes
 
 ## Listen 
-<a href = "https://open.spotify.com/track/16iNJCkOQHkYdPrBZVRb1Z?si=7187c0513be1497d"></a>
+<a href = "https://open.spotify.com/track/16iNJCkOQHkYdPrBZVRb1Z?si=7187c0513be1497d">
+<img src ="https://imgur.com/dmc102n"/>
+</a>
   
