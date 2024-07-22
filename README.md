@@ -14,7 +14,7 @@ Currently I find animations very cool, and also checking some libraries out.
 
 
 #### Fun Facts:
-- I am self-taught
+- I am self-taught/teaching
 - I don't like coffee.
 - I love all animes
 - I love green
