@@ -9,9 +9,9 @@ Currently I find animations very cool, and also checking some libraries out.
 
 
 ## Motto
- <img src='https://slackmojis.com/emojis/90621-clapclap-e/image/1711597711/clapclap-e.gif' width="25"/> I believe interfaces should be friendly, seamless and scalable.
+ <img src='https://slackmojis.com/emojis/90621-clapclap-e/image/1711597711/clapclap-e.gif' width="25"/> Building better than yesterday.
 
- 🎤 Building Weblify.
+ 🎤 Building Devstack.
 
 #### Fun Facts:
 - I am self-taught/teaching
